@@ -16,6 +16,6 @@ cframe::~cframe()
 
 void cframe::on_pushButton_clicked()
 {
-    ui->label->setText("Feliz día del Ñiño!!!");
+    ui->label->setText("Feliz día del Ñiño, Karlita y Carlitos!!!");
 }
 
